@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Desafio04 {
 	/*
+	 * Credito:
 	 * @author eduardo
 	 * Font: https://github.com/eduardo-mior/URI-Online-Judge-Solutions/blob/master/Strings/URI%201235.java
 	 */
